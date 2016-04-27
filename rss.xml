@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Executive Traveller - Making business travel fun]]></title>
+        <description><![CDATA[Executive Traveller - Making business travel fun]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Apr 2016 09:47:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 Best Business Travel Tips From The Experts]]></title>
+            <description><![CDATA[<article><h1>10 Best Business Travel Tips From The Experts</h1><p>I love traveling for business. I am so much more productive while I'm in the air or at the airport - no distractions! I've traveled more frequently than ever this year between work, weddings and various projects that I've developed quite a wealth of knowledge about navigating airports, planning, packing and everything in between.</p><img src="http://images.inc.com/uploaded_files/image/970x450/getty_475150359_90118.jpg"></article>]]></description>
+            <link>http://www.inc.com/nina-ojeda/10-best-business-travel-tips-from-the-experts.html</link>
+            <guid isPermaLink="false">df81ec2f-0496-4c40-86e2-68b783441323</guid>
+            <pubDate>Wed, 27 Apr 2016 09:43:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
