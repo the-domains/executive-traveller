@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Executive Traveller - Making business travel fun]]></title>
         <description><![CDATA[Executive Traveller - Making business travel fun]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/executive-traveller/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 09:47:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 10:14:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/executive-traveller/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Finally, Someone Designed an Airplane Seat Headrest That Actually Looks Comfortable]]></title>
+            <description><![CDATA[<article><h1>Finally, Someone Designed an Airplane Seat Headrest That Actually Looks Comfortable</h1><p>Current airplane headrest designs do little more than leave you with an irreversible case of bed head (minus the actual sleeping part of the process). A Dutch industrial designer named Manon Kühne has graced us all with a headrest we can only hope will become a regular airplane feature.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a231b5f2a30c4edeac53eecd49d96f314748ab4.jpg"></article>]]></description>
+            <link>http://www.travelandleisure.com/travel-tips/airlines-airports/headrest-airplane-design?xid=soc_socialflow_facebook_tl</link>
+            <guid isPermaLink="false">04511a19-632d-430a-a712-f7a840d7bbbc</guid>
+            <pubDate>Wed, 27 Apr 2016 10:14:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[10 Best Business Travel Tips From The Experts]]></title>
-            <description><![CDATA[<article><h1>10 Best Business Travel Tips From The Experts</h1><p>I love traveling for business. I am so much more productive while I'm in the air or at the airport - no distractions! I've traveled more frequently than ever this year between work, weddings and various projects that I've developed quite a wealth of knowledge about navigating airports, planning, packing and everything in between.</p><img src="http://images.inc.com/uploaded_files/image/970x450/getty_475150359_90118.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>10 Best Business Travel Tips From The Experts</h1><p>I love traveling for business. I am so much more productive while I'm in the air or at the airport - no distractions! I've traveled more frequently than ever this year between work, weddings and various projects that I've developed quite a wealth of knowledge about navigating airports, planning, packing and everything in between.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbecc53f422b6f436f6a63cbfb37b894dce4cff8.jpg"></article>]]></description>
             <link>http://www.inc.com/nina-ojeda/10-best-business-travel-tips-from-the-experts.html</link>
             <guid isPermaLink="false">df81ec2f-0496-4c40-86e2-68b783441323</guid>
             <pubDate>Wed, 27 Apr 2016 09:43:54 GMT</pubDate>
